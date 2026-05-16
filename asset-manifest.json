@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cd-redbull-portfolio/static/css/main.9c769594.css",
+    "main.js": "/cd-redbull-portfolio/static/js/main.4b311ac1.js",
+    "static/js/488.9884dbc0.chunk.js": "/cd-redbull-portfolio/static/js/488.9884dbc0.chunk.js",
+    "static/media/1-home.png": "/cd-redbull-portfolio/static/media/1-home.55fbb534966597f6154b.png",
+    "static/media/6-video.png": "/cd-redbull-portfolio/static/media/6-video.844ec7d8a3391a16395c.png",
+    "static/media/8-reflection.png": "/cd-redbull-portfolio/static/media/8-reflection.8100eee891dadcbefc44.png",
+    "static/media/3-ideas.png": "/cd-redbull-portfolio/static/media/3-ideas.5e3bfee87b3c5b35cf0a.png",
+    "static/media/4-pitch.png": "/cd-redbull-portfolio/static/media/4-pitch.887d23fd89da22a987d6.png",
+    "static/media/5-design.png": "/cd-redbull-portfolio/static/media/5-design.887d23fd89da22a987d6.png",
+    "static/media/2-research.png": "/cd-redbull-portfolio/static/media/2-research.905d1579d0b98affe9cf.png",
+    "static/media/7-analytics.png": "/cd-redbull-portfolio/static/media/7-analytics.50b6ba6da7864dad63aa.png",
+    "index.html": "/cd-redbull-portfolio/index.html",
+    "main.9c769594.css.map": "/cd-redbull-portfolio/static/css/main.9c769594.css.map",
+    "main.4b311ac1.js.map": "/cd-redbull-portfolio/static/js/main.4b311ac1.js.map",
+    "488.9884dbc0.chunk.js.map": "/cd-redbull-portfolio/static/js/488.9884dbc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c769594.css",
+    "static/js/main.4b311ac1.js"
+  ]
+}
